@@ -354,3 +354,13 @@ python -m venv .venv
 python -m pip install -U pip
 python -m pip install -e .
 ```
+
+
+---
+
+
+##If you use this repository, please consider citing as:
+
+```
+Tischner Jan, Nico Simon, Micha Walter (2026): PoLaPro - Political Language Processing: RAG system for German political knowledge.
+```
